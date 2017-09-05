@@ -1,0 +1,30 @@
+body {
+  background-color: #558C89;
+}
+
+#main-box {
+  margin: 10% auto;
+  background-color: #558C89;
+  min-width: 300px;
+  max-width: 500px;
+  border-radius: 3px;
+  padding: 40px;
+  color: white;
+}
+
+#quote {
+  font-size: 22px;
+  font-family: Raleway;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+.buttons .btn {
+  color: white;
+  background-color: #D9853B;
+  border-color: #558C89;
+}
+.buttons i {
+  color: white;
+}
